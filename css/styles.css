@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: gainsboro;
+    color: brown;
+
+}
+
+h1 {
+    text-align: center;
+    color: purple;
+    margin: 1rem 0rem;
+    font-size: 3.7vw;
+}
+
+p {
+    margin: 0.5rem 5%;
+    padding: 1rem;
+    column-count: 2;
+    font-size: 2vw;
+}
